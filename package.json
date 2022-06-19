@@ -1,0 +1,28 @@
+{
+  "name": "crudnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ons13/CRUDNODEJS.git"
+  },
+  "author": "ons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ons13/CRUDNODEJS/issues"
+  },
+  "homepage": "https://github.com/ons13/CRUDNODEJS#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
